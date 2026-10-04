@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Временные файлы Vim
+*.swp
+*.swo
+*~
+*.un~
+
+# macOS
+.DS_Store
+
+# Сгенерированная документация Sphinx
+docs/build/
+
+# Локальные биологические данные
+data/
+*.fasta
+*.fa
+*.fna
+*.faa
