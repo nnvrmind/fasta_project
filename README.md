@@ -27,7 +27,7 @@ fasta_project/
 └── docs/
     ├── source/             # Исходные файлы документации Sphinx
     │   ├── _static/
-    │   │   └── uml.png
+    │   │   └── uml_FASTA_project.png
     │   ├── conf.py
     │   ├── index.rst
     │   ├── seq.rst
